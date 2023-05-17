@@ -754,6 +754,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 ## Inbox: Developing + AI
 
 * [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
+* [CodiumAI](https://codium.ai/): Generating meaningful unit-tests and code suggestions in your IDE
 * [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 * [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 * [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
